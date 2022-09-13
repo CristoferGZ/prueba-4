@@ -1,0 +1,104 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.content{
+background-color: black;
+margin: 1% 1% 100% 1%;
+padding:1% 1% 100% 1%;
+}
+
+.container{
+    background-image: url("tibbers.jpg");
+   padding: 1% 1% 100%;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   color:white;
+  font-size: 350%;
+  
+}
+
+.content3{
+    border:1% ;
+    margin: 45% 0 0 0;
+    border: 2px;
+    background-color:black; 
+    align-items: center;
+    justify-content: center ;
+    
+
+}
+#content4{
+    border:1% ;
+    margin: 1%;
+    padding:1%;
+    height: 70%;
+    background-color:rgb(14, 13, 13);
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+
+}
+#content5{
+    border:1% ;
+    margin: 0%;
+    padding:1%  15%;
+    height: 50%;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+
+
+}
+.topnav {
+    background-color:black;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 90px;
+    justify-content: space-around;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .topnav .search-container button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  img{
+    width: 15em;
+    height: 10em;
+  }
+  .riot{
+    background-image: url("riotgamescom-forge.jpg");
+    padding: 100% 1% 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:white;
+   font-size: 350%;
+  }
